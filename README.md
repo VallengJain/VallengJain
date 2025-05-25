@@ -1,5 +1,5 @@
-## **Hi there** 👋
+<div align="center">
+  <h2>Hi everyone!</h2>
+</div>
 
-#  **My name is Yaroslav *aka* VallengJain**
-
-___
+<h1 align="center">My name is Yaroslav aka VallengJain</h1>
