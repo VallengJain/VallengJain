@@ -2,4 +2,4 @@
 
 <h1 align="center">My name is Yaroslav <i>aka</i> VallengJain<br><br></h1><br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallengjain&show_icons=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallengjain&theme=merko&hide_rank=false)]
